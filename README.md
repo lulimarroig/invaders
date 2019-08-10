@@ -1,7 +1,7 @@
 # invaders
 Detect Invaders Pattern in a given input image.
 
-Uses Java8
+Uses Java8 and jUnit5
 
 Invaders is a command line project. 
 
